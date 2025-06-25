@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Frontend Developer]** with experience in **React.js, Next.js, TypeScript, JavaScript, TailwindCSS, CSS3, HTML5**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Frontend Developer** with experience in **React.js, Next.js, TypeScript, JavaScript, TailwindCSS, CSS3, HTML5**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Backend with the DRF Stack and MERN Stack**
 - 🔭 Working on: **Alliance Hospital Website**
@@ -62,8 +62,8 @@ I'm a passionate **[Frontend Developer]** with experience in **React.js, Next.js
 
 ## Get in Touch 📬
 
-- **[Personal Website]**(https://nexdbillionairedev.vercel.app/)
-- **[LinkedIn]**(https://www.linkedin.com/in/ebenezer-ekunke/)
-- **[Twitter]**(https://x.com/dBillionaireDev)
+- **![Personal Website](https://nexdbillionairedev.vercel.app/)**
+- **![LinkedIn](https://www.linkedin.com/in/ebenezer-ekunke/)**
+- **![Twitter](https://x.com/dBillionaireDev)**
 
 
