@@ -126,7 +126,7 @@ I'm passionate about building and contributing to:
   <a href="https://twitter.com/dBillionaireDev" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://https://nexdbillionairedev.vercel.app" target="_blank">
+  <a href="https://https://nexdbillionairedev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-121212?style=flat&logo=githubpages&logoColor=white" />
   </a>
 </p>
