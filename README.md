@@ -95,9 +95,9 @@ I'm passionate about building and contributing to:
 
 **Projects I'm currently building:**
 
-- **[ConvertLAB](https://convertlabccu.vercel.app/)** – All-in-one chemical & health unit conversion tool  
+- **[ConvertLAB](https://convertlab-eta.vercel.app/)** – All-in-one chemical & health unit conversion tool  
 - **[Company's Website](https://lets-speak-africa.vercel.app/)** – A website for a youth-led advocate driven foundation  
-- **[Client Portfolio Website](https://impulse-grid.vercel.app/)** – For a tech portfolio  
+- **[Client Portfolio Website](https://blessed-designs.vercel.app/)** – For a tech portfolio  
 - **[Dual-Role Portfolio](https://annie-udofia.vercel.app/)** – For my Virtual Assistant & Product Manager friend  
 
 ---
