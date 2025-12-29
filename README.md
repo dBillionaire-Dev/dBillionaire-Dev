@@ -89,16 +89,17 @@ I'm passionate about building and contributing to:
 ✔ Full-stack, scalable web and mobile apps  
 ✔ AI/ML-powered solutions  
 ✔ DevOps & automation tools  
-✔ Educational platforms like **Lampe (LMS)**  
+✔ Rental platforms like **Renpal App (P2P)**  
 ✔ Emergency rescue services like **Zingtek Rescue**  
 ✔ Productivity tools for businesses and communities  
 
 **Projects I'm currently building:**
 
+- **[CareerSync](https://career-sync-nine.vercel.app/)** – A fullstack job tracker app, for ambitious job appliacnats 
 - **[ConvertLAB](https://convertlab-eta.vercel.app/)** – All-in-one chemical & health unit conversion tool  
-- **[Company's Website](https://lets-speak-africa.vercel.app/)** – A website for a youth-led advocate driven foundation  
-- **[Client Portfolio Website](https://blessed-designs.vercel.app/)** – For a tech portfolio  
-- **[Dual-Role Portfolio](https://annie-udofia.vercel.app/)** – For my Virtual Assistant & Product Manager friend  
+- **[Fullstack Company's Website](https://lets-speak-africa.vercel.app/)** – A website for a youth-led advocate driven foundation  
+- **[Fullstack Client Portfolio Website](https://blessed-designs.vercel.app/)** – For a tech portfolio  
+- **[Renpal App](https://www.renpal.app/)** – A fullsatck P2P rental platform
 
 ---
 
