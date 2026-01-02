@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a **Full-Stack AI Software and ML Engineer**, previously completed the **ALX ProDev Frontend Programme**, self-taught Backend and AI/ML Engineer sharpening my skills in building scalable, secure, and impactful solutions across mobile, web, AI/ML, and cloud.
+I am a **Full-Stack AI Software and ML Engineer**, previously completed the **ALX ProDev Frontend Programme**, self-taught Backend and AI/ML Engineer, sharpening my skills in building scalable, secure, and impactful solutions across mobile, web, AI/ML, and cloud.
 
 💡 **Why I chose software engineering:**  
 > My interest in logic, security, and building efficient systems, coupled with my tech curiosity and overcoming the challenges of colorblindness, naturally led me to software engineering, particularly the backend, where structure, logic, and real-world problem solving come alive.
