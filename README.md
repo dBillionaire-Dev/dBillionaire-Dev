@@ -90,7 +90,6 @@ I'm passionate about building and contributing to:
 ✔ AI/ML-powered solutions  
 ✔ DevOps & automation tools  
 ✔ Rental platforms like **Renpal App (P2P)**  
-✔ Emergency rescue services like **Zingtek Rescue**  
 ✔ Productivity tools for businesses and communities  
 
 **Projects I'm currently building:**
