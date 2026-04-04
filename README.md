@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Ebenezer 'NexDev' Ekunke 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Software+%26+ML+Engineer;Backend+%7C+Mobile+%7C+Cloud+%7C+AI/ML;Building+Scalable+Tech+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+AI/MLOps+Engineer;Backend+%7C+DevOps+%7C+Cloud+%7C+AI/MLOps;Building+Scalable+Tech+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a **Full-Stack AI Software and ML Engineer**, previously completed the **ALX ProDev Frontend Programme**, self-taught Backend and AI/ML Engineer, sharpening my skills in building scalable, secure, and impactful solutions across mobile, web, AI/ML, and cloud.
+I am a **Backend-Focused Full-Stack AI/MLOps Engineer**, previously completed the **ALX ProDev Frontend Programme**, self-taught Backend and AI/MLOps Engineer, sharpening my skills in building scalable, secure, and impactful solutions across devops, web, AI/ML, and cloud.
 
 💡 **Why I chose software engineering:**  
-> My interest in logic, security, and building efficient systems, coupled with my tech curiosity and overcoming the challenges of colorblindness, naturally led me to software engineering, particularly the backend, where structure, logic, and real-world problem solving come alive.
+> My interest in logic, security, and building efficient systems, coupled with my tech curiosity, naturally led me to software engineering, particularly the backend, where structure, logic, and real-world problem solving come alive.
 
 🔥 **What inspires me:**  
 > The power of technology to automate tasks, solve human problems, and build products that can change lives, from AI solutions to rescue apps to educational platforms.
