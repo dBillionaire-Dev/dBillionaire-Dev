@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Ebenezer 'NexDev' Ekunke 👋</h1>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend-Heavy+Full-Stack+Engineer;AI+%2F+MLOps+%7C+DevOps+%7C+Cloud+Architecture;Building+Scalable%2C+Secure%2C+Impactful+Systems;Founder+%40+Zingtek+Corp." alt="Typing SVG" />
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend-Heavy+Full-Stack+AI/MLOps+Engineer;Backend+%7C+DevOps+%7C+Cloud+%7C+AI/MLOps;Building+Scalable+Tech+Solutions" alt="Typing SVG" />
 </p>
@@ -103,6 +107,19 @@ I'm passionate about building and contributing to:
 ---
 
 ### 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dBillionaire-Dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&ring_color=3B82F6" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dBillionaire-Dev&theme=github-dark-blue&hide_border=true&background=0A0A0F&stroke=1E293B&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dBillionaire-Dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=3B82F6&text_color=94A3B8" width="40%" alt="Top Languages"/>
+
+</div>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dBillionaire-Dev&show_icons=true&theme=react" alt="GitHub Stats" />
