@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ebenezer 'NexDev' Ekunke 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend-Heavy+Full-Stack+Engineer;AI+%2F+MLOps+%7C+DevOps+%7C+Cloud+Architecture;Building+Scalable%2C+Secure%2C+Impactful+Systems;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend-Heavy+Full-Stack+Engineer;AI/MLOps+%7C+DevOps+%7C+Cloud+Architecture;Building+Scalable%2C+Secure%2C+Impactful+Systems;" alt="Typing SVG" />
 </p>
 
 ---
