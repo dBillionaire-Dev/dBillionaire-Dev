@@ -6,12 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend-Heavy+Full-Stack+AI/MLOps+Engineer;Backend+%7C+DevOps+%7C+Cloud+%7C+AI/MLOps;Building+Scalable+Tech+Solutions" alt="Typing SVG" />
-</p>
-
----
-
 ### 🚀 About Me
 
 I am a **Backend-Focused Full-Stack AI/MLOps Engineer**, previously completed the **ALX ProDev Frontend Programme**, self-taught Backend and AI/MLOps Engineer, sharpening my skills in building scalable, secure, and impactful solutions across devops, web, AI/ML, and cloud.
@@ -120,16 +114,6 @@ I'm passionate about building and contributing to:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dBillionaire-Dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=3B82F6&text_color=94A3B8" width="40%" alt="Top Languages"/>
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dBillionaire-Dev&show_icons=true&theme=react" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dBillionaire-Dev&theme=react" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dBillionaire-Dev&layout=compact&theme=react" alt="Top Languages" />
-</p>
 
 ---
 
