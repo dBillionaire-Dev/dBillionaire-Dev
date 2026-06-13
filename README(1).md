@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=700&lines=Backend-Focused+Full-Stack+Engineer;NestJS+%7C+Node.js+%7C+FastAPI+%7C+PostgreSQL;Building+Scalable+APIs+%26+Cloud-Native+Systems;From+Medical+Lab+to+Production+Code+%F0%9F%94%AC%E2%9E%9C%F0%9F%96%A5%EF%B8%8F;Founder+%40+Zingtek+Corporation+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=700&lines=Backend-Focused+Full-Stack+Engineer;NestJS+%7C+Node.js+%7C+FastAPI+%7C+GO;Building+Scalable+APIs+%26+Cloud-Native+Systems;From+Medical+Lab+to+Production+Code+%F0%9F%94%AC%E2%9E%9C%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔬 From the Lab to the Terminal
+## From the Lab to the Terminal
 
 I graduated as a **Medical Laboratory Scientist**. A year later, I was writing production backend code.
 
@@ -26,17 +26,17 @@ What the lab gave me that no bootcamp teaches:
 - **Document everything** — every result, every decision, every change
 - **Precision under pressure** — deadlines in medicine are real; so are deploy deadlines
 
-Today I build **scalable APIs, cloud infrastructure, and intelligent systems** — bringing that same lab-grade precision to every line of code.
+Today I build **scalable APIs, cloud infrastructure, and intelligent systems**, bringing that same lab-grade precision to every line of code.
 
-> *"The best engineers I know think like scientists — hypothesis, test, iterate."*
+> *"The best engineers I know think like scientists - hypothesis, test, iterate."*
 
 ---
 
-## ⚡ Right Now
+## Right Now
 
 ```typescript
 const nexy = {
-  building:   ["Alphabuddy (React + Phaser.js + Supabase)", "Zingtek Corp products"],
+  building:   ["LabArc (Next.js + Nest.js + PostgreSQL)", "Zingtek Corp products"],
   learning:   ["NestJS", "TypeORM", "Kubernetes", "MLOps pipelines"],
   working:    "HNG Internship — NestJS + TypeORM + PostgreSQL team project",
   writing:    "Technical articles on Hashnode → backend patterns & DevOps",
@@ -46,7 +46,7 @@ const nexy = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -86,7 +86,7 @@ const nexy = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -97,7 +97,7 @@ const nexy = {
 
 Track every application, interview stage, and follow-up in one place. Built for ambitious job seekers who apply at scale.
 
-`Next.js` `TypeScript` `PostgreSQL` `Prisma`
+`React.js` `TypeScript` `PostgreSQL` `Prisma`
 
 </td>
 <td width="50%">
@@ -107,7 +107,7 @@ Track every application, interview stage, and follow-up in one place. Built for 
 
 All-in-one conversion tool for chemical and health units — built from my medical lab background. Accuracy is the feature.
 
-`React` `TypeScript` `Node.js`
+`Next.js` `TypeScript` `Tailwind`
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ All-in-one conversion tool for chemical and health units — built from my medic
 ### 🤖 [OpenRouter CLI AI App](https://github.com/dBillionaire-Dev/openrouter-cli-ai-app)
 **Talk to AI models from your terminal**
 
-`pnpm dev "your prompt"` — get an AI response instantly. Swap models via a single env variable. Under 100 lines.
+`pnpm dev "your prompt"` - get an AI response instantly. Swap models via a single env variable. Under 100 lines.
 
 `TypeScript` `Node.js` `OpenRouter API`
 
@@ -136,12 +136,12 @@ A peer-to-peer rental marketplace — connecting people who have things with peo
 <tr>
 <td width="50%">
 
-### 🎮 Alphabuddy *(in development)*
-**Interactive educational game for kids**
+### 🎮 LabArc *(in development)*
+**Laboratory Operating/Management System for Medical Laboratories**
 
-Learn letters and numbers through gameplay. Built under Zingtek Corporation — making early education feel like play.
+Have a seamless daily lab operations powered by AI. Built under Zingtek Corporation — making diagnostic operations seamless.
 
-`React` `Phaser.js` `Supabase` `TypeScript`
+`Next.js` `Nest.js` `PostgreSQL` `TypeScript` `FastAPI`
 
 </td>
 <td width="50%">
@@ -159,7 +159,7 @@ Mobile-first, accessible platform for the Ruth Reje Advocacy Foundation — 90+ 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -178,7 +178,7 @@ Mobile-first, accessible platform for the Ruth Reje Advocacy Foundation — 90+ 
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dBillionaire-Dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
@@ -186,7 +186,7 @@ Mobile-first, accessible platform for the Ruth Reje Advocacy Foundation — 90+ 
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ebenezer-ekunke" target="_blank">
@@ -207,7 +207,7 @@ Mobile-first, accessible platform for the Ruth Reje Advocacy Foundation — 90+ 
 </p>
 
 <p align="center">
-  <i>Open to Backend · Full-Stack · DevOps roles — remote globally or on-site in Abuja, Nigeria.</i>
+  <i>Open to Backend · Full-Stack · DevOps roles — remote globally or on-site in Abuja/Lagos, Nigeria.</i>
 </p>
 
 ---
