@@ -235,11 +235,11 @@ Mobile-first, accessible platform for the Ruth Reje Advocacy Foundation - 90+ Li
 </p>
 
 <p align="center">
-  <i>Open to Backend · Full-Stack · DevOps roles — remote globally or on-site in Abuja/Lagos, Nigeria.</i>
+  <i>Open to Backend · Full-Stack · DevOps roles · Remote globally or on-site in Abuja/Lagos, Nigeria.</i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0A66C2&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0A66C2&height=100&section=footer&fontSize=11&fontColor=ffffff&fontAlignY=20&desc=&copy%202026%20dBillionaire-Dev&descAlignY=78&descSize=11&animation=fadeIn" width="100%"/>
 </p>
