@@ -209,7 +209,10 @@ Mobile-first, accessible platform for the Ruth Reje Advocacy Foundation - 90+ Li
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dBillionaire-Dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=dBillionaire-Dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" onerror="this.style.display='none'" alt="GitHub Trophies"/> -->
+</p>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=dBillionaire-Dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
