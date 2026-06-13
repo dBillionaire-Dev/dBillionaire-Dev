@@ -163,7 +163,7 @@ Mobile-first, accessible platform for the Ruth Reje Advocacy Foundation — 90+ 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dBillionaire-Dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=0A66C2&text_color=94A3B8&ring_color=1D9E75&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dBillionaire-Dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=0A66C2&text_color=94A3B8&ring_color=1D9E75&include_all_commits=false" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=dBillionaire-Dev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1E293B&ring=1D9E75&fire=F59E0B&currStreakLabel=1D9E75&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" alt="GitHub Streak"/>
 
 <br/>
